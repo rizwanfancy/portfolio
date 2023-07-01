@@ -1,11 +1,9 @@
-import { Component, OnInit, ViewChild, HostListener, AfterViewInit } from '@angular/core';
-import { Router } from '@angular/router';
-import {trigger, style, query, transition, stagger, animate } from '@angular/animations'
-import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
-import { TranslateService } from '@ngx-translate/core';
+import { animate, query, stagger, style, transition, trigger } from '@angular/animations';
+import { Component, HostListener, OnInit } from '@angular/core';
 import { UntypedFormControl } from '@angular/forms';
+import { Router } from '@angular/router';
+import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
 import { LanguageService } from 'src/app/services/language/language.service';
-import { ThisReceiver } from '@angular/compiler';
 
 
 @Component({
