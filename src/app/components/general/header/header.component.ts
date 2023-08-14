@@ -2,7 +2,6 @@ import { animate, query, stagger, style, transition, trigger } from '@angular/an
 import { Component, HostListener, OnInit } from '@angular/core';
 import { UntypedFormControl } from '@angular/forms';
 import { Router } from '@angular/router';
-import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
 import { LanguageService } from 'src/app/services/language/language.service';
 
 
@@ -37,7 +36,6 @@ export class HeaderComponent implements OnInit {
 
   constructor(
     private router: Router,
-    public analyticsService: AnalyticsService,
     public languageService: LanguageService
   ) { }
 
