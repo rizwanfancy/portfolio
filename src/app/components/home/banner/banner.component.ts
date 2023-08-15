@@ -23,6 +23,8 @@ import { trigger, state, style, animate, transition, stagger, query } from "@ang
   ]
 })
 export class BannerComponent implements OnInit {
+
+  public description: string =`"I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React, NodeJS and ExpressJS</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards."`
   constructor(
   ) { }
 
