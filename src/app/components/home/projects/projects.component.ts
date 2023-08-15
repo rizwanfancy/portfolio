@@ -6,7 +6,7 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   templateUrl: './projects.component.html',
   styleUrls: ['./projects.component.scss']
 })
-export class ProyectsComponent implements OnInit {
+export class projectsComponent implements OnInit {
 
   customOptions: OwlOptions = {
     loop: true,

@@ -6,7 +6,7 @@ import { Router, NavigationEnd } from '@angular/router';
   templateUrl: './more-projects.component.html',
   styleUrls: ['./more-projects.component.scss']
 })
-export class MoreProyectsComponent implements OnInit {
+export class MoreprojectsComponent implements OnInit {
 
   projects = [
     {
