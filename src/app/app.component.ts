@@ -18,10 +18,18 @@ export class AppComponent {
   ngOnInit(): void {
     this.titleService.setTitle("Rizwan Anwer | Full-Stack Developer");
     this.metaService.addTags([
-      { name: 'keywords', content: 'Frontend, MEAN Stack Developer , MERN Stack Development, Full-Stack Developer, Software Engineer, software, developer' },
-      { name: 'description', content: 'As a software engineer with expertise in both MEAN and MERN stacks, I have a comprehensive understanding of web development. My strong foundation in JavaScript allows me to effectively work with front-end technologies such as Angular,VueJs and React, as well as back-end technologies such as C#, Node.js and Express.' },
+      {
+        name: 'keywords', content:
+          `Frontend, 
+      MEAN Stack Developer , 
+      MERN Stack Development, 
+      Full-Stack Developer, 
+      Software Engineer, 
+      Software developer` },
+      {
+        name: 'description', content: `I'm an experienced software engineer well-versed in both MEAN and MERN stacks, which means I really understand web development. I have experience on front-end Framework/Library like Angular, Vue.js, and React, as well as back-end technologies like C#, Node.js, and Express.` },
     ]);
-    
+
     AOS.init();
   }
 }

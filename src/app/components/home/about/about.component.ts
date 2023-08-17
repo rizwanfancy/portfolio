@@ -7,9 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AboutComponent implements OnInit {
 
-  paragraphs: string[] = [`In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NestJs, MongoDB and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
-  "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-  "Some of the technologies that I have trained and worked on include (but are not limited to):`]
+  paragraphs: string[] = [`Experienced Full Stack Developer with a demonstrated history of <span class='underline'> 8+ years </span> in the software development industry. Skilled in a variety of technologies including <span class='underline'> VueJs, Angular, React, JavaScript, TypeScript, and .Net Core </span>. Proficient in both front-end and back-end development, with a strong focus on performance enhancement and code optimization. I have successfully led teams to achieve technical and management goals, delivering innovative solutions that have a positive impact. My expertise spans across API development, deployment, and utilizing various UI kits such as <span class='underline'> Aggrid, Devexpress, Bootstrap, and Material UI </span>. I am well-versed in version control systems like Github and Gitlab, as well as project management tools like Jira. Always eager to learn new technologies and continuously improve existing code.`]
   constructor(
   ) { }
 

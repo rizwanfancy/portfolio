@@ -1,5 +1,5 @@
-import { Component, OnInit, AfterViewInit } from '@angular/core';
-import { trigger, query, stagger, animate, style, transition } from '@angular/animations'
+import { animate, query, stagger, style, transition, trigger } from '@angular/animations';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-footer',
