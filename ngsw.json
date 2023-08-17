@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1692082167983,
+  "timestamp": 1692253678282,
   "index": "https://rizwanfancy.github.io/portfolio/index.html",
   "assetGroups": [
     {
@@ -13,12 +13,12 @@
       "urls": [
         "https://rizwanfancy.github.io/portfolio/favicon.ico",
         "https://rizwanfancy.github.io/portfolio/index.html",
-        "https://rizwanfancy.github.io/portfolio/main.8656a0a6737405ee.js",
+        "https://rizwanfancy.github.io/portfolio/main.434b79ec3d9fb5a3.js",
         "https://rizwanfancy.github.io/portfolio/manifest.webmanifest",
         "https://rizwanfancy.github.io/portfolio/polyfills.798cb09867992088.js",
         "https://rizwanfancy.github.io/portfolio/runtime.63a1efafee317636.js",
         "https://rizwanfancy.github.io/portfolio/scripts.68ed26d13e2edc19.js",
-        "https://rizwanfancy.github.io/portfolio/styles.8537201d9eec7b14.css"
+        "https://rizwanfancy.github.io/portfolio/styles.61fd2a93f77431b6.css"
       ],
       "patterns": []
     },
@@ -236,14 +236,14 @@
     "https://rizwanfancy.github.io/portfolio/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "https://rizwanfancy.github.io/portfolio/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "https://rizwanfancy.github.io/portfolio/favicon.ico": "97c827d7b24e8fa8795e691c55f62129e3c29f6d",
-    "https://rizwanfancy.github.io/portfolio/index.html": "9adbe9ed668d907a70f888eb172d021c557a25c0",
-    "https://rizwanfancy.github.io/portfolio/main.8656a0a6737405ee.js": "006c6589329e005176e2bfacd880a84189a94f88",
+    "https://rizwanfancy.github.io/portfolio/index.html": "b85a61bece24374b322389a0953323af9177d694",
+    "https://rizwanfancy.github.io/portfolio/main.434b79ec3d9fb5a3.js": "98c5b83584c987949a014fa404bfd4d40ca2a588",
     "https://rizwanfancy.github.io/portfolio/manifest.webmanifest": "3bb42a572127c12705e5c735756b55c937101304",
     "https://rizwanfancy.github.io/portfolio/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://rizwanfancy.github.io/portfolio/polyfills.798cb09867992088.js": "684e00537daee5a0a0b3760ae337f340af421d81",
     "https://rizwanfancy.github.io/portfolio/runtime.63a1efafee317636.js": "c449e8b66459b37ed235e48a1fd6a24f35d77797",
     "https://rizwanfancy.github.io/portfolio/scripts.68ed26d13e2edc19.js": "cffb6dcf1e317b2859024c20248dd0c50ce6b885",
-    "https://rizwanfancy.github.io/portfolio/styles.8537201d9eec7b14.css": "c03a5a3a7b631c1a71a8d8e3e43617da439f2850"
+    "https://rizwanfancy.github.io/portfolio/styles.61fd2a93f77431b6.css": "d0aba9e05d36644b398fb32f70ded6dddbad9c37"
   },
   "navigationUrls": [
     {
