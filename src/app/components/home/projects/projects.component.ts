@@ -23,61 +23,104 @@ export class projectsComponent implements OnInit {
 
   projects = [
     {
-      Title: "2x School",
-      Description: "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+      Title: "Cis Infinity",
+      Description: "CIS Infinity is Vendor based (Utilities) billing management system, which is utilized in Canada, North America",
+      demoLink: "https://cisv5dev.infinitycis.com/",
       imgs: [
-        "assets/images/school/image1.png",
-        "assets/images/school/image2.png"
+        "assets/Projects/CisInfinity.png",
+      ],
+      Technologies: [
+        "Vuejs",
+        ".Net Core",
+        "DevExpress",
+        "SQL"
+      ],
+    },
+    {
+      Title: "NewQuantum",
+      Description: `NewQuantum “Fintech as a Service provider”, offering financial advisers and their clients smart 
+      technology, unrivalled support and exceptional service for a modern, efficient way to manage client 
+      investment portfolios`,
+      demoLink: 'https://dev-app.newquantum.com/',
+      imgs: [
+        "assets/Projects/NewQuantum-App.png",
+        "assets/Projects/NQ_Client_Portal.png"
       ],
       Technologies: [
         "Angular",
-        "SASS",
-        "Angular Material",
-        "RxJS"
-      ]
+        ".Net Core",
+        "DevExpress",
+        "React",
+        "SQL",
+        "Entity Framework",
+        "Dapper"
+      ],
     },
     {
-      Title: "Best Buy Mall",
-      Description: "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+      Title: "Splendid Accounts",
+      Description: `Splendid Accounts offers an online accounting and inventory management solution in Pakistan, 
+      specifically designed for small and medium-sized businesses`,
+      demoLink: 'https://app.splendidaccounts.com/',
       imgs: [
-        "assets/images/bbm/image1.png",
-        "assets/images/bbm/image2.png"
+        "assets/Projects/Splendid_Acconts-App.png"
       ],
       Technologies: [
         "Angular",
-        "SASS",
-        "Material",
-        "RxJS",
-        "ExpressJS"
+        ".Net Core",
+        "SQL",
+        "Entity Framework",
+      ],
+    },
+    {
+      Title: "ShipKardo",
+      Description: `Order managment application which takes the order from the connected stores and push it delivery partner so they can pick and drop order without any manual piece of work.`,
+      demoLink: "https://www.shipkardo.pk/",
+      imgs: [
+        "assets/Projects/ShipKardo.png"
+      ],
+      Technologies: [
+        "Angular",
+        "TypeScript",
+        "Nodejs",
+        "ExpressJs",
+        "MongoDb"
       ]
     },
     {
-      Title: " Mazhr",
-      Description: " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+      Title: "Eduman / Edap",
+      Description: `Empowering Schools in Karachi, this project revolutionizes education management. It unifies 
+      academics, fees, parents' engagement, HR, and introduces seamless online classes through ZOOM & 
+      JITSI integration`,
+      demoLink: "http://edap.com.pk/",
       imgs: [
-        "assets/images/mazhr/image1.png"
+        "assets/Projects/Eduman.png",
+        "assets/Projects/Edap-Home.png"
       ],
       Technologies: [
-        "React",
-        "SASS",
-        "Material",
-        "Babel",
-        "NodeJS"
+        "Angular",
+        "TypeScript",
+        ".net Core",
+        "SAS",
+        "SQL",
+        "Telerik"
       ]
     },
     {
-      Title: "Needle",
-      Description: "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
+      Title: "Driving License",
+      Description: `Complete microservice web-based architecture along with web and mobile frontends for public and 
+      internal staffs. Replaced the old offline system with centralized database system, now people of Sindh 
+      can issue, renew their driving licenses from anywhere and any branch of Sindh. It consists of 
+      integrations with various companies like NADRA, Jazz and TCS.`,
+      demoLink: "https://dls.gos.pk/",
       imgs: [
-        "assets/images/mazhr/needle.png"
+        "assets/Projects/DLS-Application.png",
+        "assets/Projects/DLS_Portal.png"
       ],
-      demoLink: "https://profile.needlemusic.co/bub",
       Technologies: [
-        "React",
-        "ChartJS",
-        "SASS",
-        "NodeJS",
-        "Python"
+        "DotNet",
+        "Windows Form",
+        "SQL",
+        "Telerik"
       ]
     }
   ]
