@@ -7,7 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AboutComponent implements OnInit {
 
-  paragraphs: string[] = [`Experienced Full Stack Developer with a demonstrated history of <span class='underline'> 8+ years </span> in the software development industry. Skilled in a variety of technologies including <span class='underline'> VueJs, Angular, React, JavaScript, TypeScript, and .Net Core </span>. Proficient in both front-end and back-end development, with a strong focus on performance enhancement and code optimization. I have successfully led teams to achieve technical and management goals, delivering innovative solutions that have a positive impact. My expertise spans across API development, deployment, and utilizing various UI kits such as <span class='underline'> Aggrid, Devexpress, Bootstrap, and Material UI </span>. I am well-versed in version control systems like Github and Gitlab, as well as project management tools like Jira. Always eager to learn new technologies and continuously improve existing code.`]
+  paragraphs: string[] =
+    [
+      `Accomplished <span class='underline'> Full Stack Developer </span> with over <span class='underline'> 8 years </span> of crafting digital solutions. Proficient in <span class='underline'> VueJs, Angular, React, JavaScript, TypeScript, HTML/CSS, .Net Core, NodeJs, and ExpressJs. </span> 🚀`,
+      `🔧 Skilled in designing APIs, managing deployments, and working with UI kits like Aggrid, Devexpress, Bootstrap, and Material UI. Experienced in collaboration tools like GitHub, Gitlab, and Jira. 🛠️`,
+      `🎯 Recognized for leading teams to technical and managerial success. Known for optimizing code performance and introducing innovative features. 🌟`,
+      `🛠️ Projects include enhancing utility systems, developing fintech solutions, creating accounting and inventory platforms, facilitating online donations, and improving education management tools. 💡`
+    ]
   skills: string[] =
     [
       '.Net Core',
