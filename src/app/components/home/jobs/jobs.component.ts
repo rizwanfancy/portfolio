@@ -15,6 +15,9 @@ export class JobsComponent implements OnInit {
       Date: "May 2022 - Present",
       Description: [
         "Developed and maintained a web-based application using Vuejs, .Net Core, and SQL, resulting in improved user experience and increased performance.",
+        "Designed and implemented RESTful APIs to support multiple applications, using .Net Core",
+        `Attend Daily Scrum meeting to discuss the daily Task and provide solution to developer`,
+        `Help other developers to achive their daily basis task.`
       ]
     },
 
@@ -23,7 +26,10 @@ export class JobsComponent implements OnInit {
       Title: "Senior Software Developer",
       Date: "October 2020 - May 2022",
       Description: [
-        "Developed and maintained web applications using Angular and React.",
+        `Handle multiple projects and lead the teams`,
+        "Developed and maintained web applications using Angular, React.",
+        `Designed and implemented RESTful APIs to support multiple applications, using .Net Core, Nodejs`,
+        `Mentor junior developers and provide my feedback for their career.`
       ]
     },
     {
@@ -31,7 +37,11 @@ export class JobsComponent implements OnInit {
       Title: "Software Developer",
       Date: "September 2014 - Oct 2020",
       Description: [
-        "Developed and maintained a web-based application using Vuejs, .Net Core, and SQL, resulting in improved user experience and increased performance.",
+        `Handle multiple projects and lead the teams`,
+        `Provide Client support for their technical query`,
+        `Assist team about their query and provide solution`,
+        `Task management`,
+        "Developed and maintained web applications using Angular.",
       ]
     }
   ]
